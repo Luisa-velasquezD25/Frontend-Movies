@@ -5,6 +5,7 @@ const axiosInstance = axios.create({
     baseURL: 'https://movies-backend-iud-9u2e.onrender.com'
 })
 
+
 export {
     axiosInstance
 }
